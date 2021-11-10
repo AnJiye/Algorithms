@@ -1,4 +1,4 @@
-# 음료수 얼려 먹기 - DFS 사용
+# 음료수 얼려 먹기 - DFS 사용 (149p)
 
 n, m = map(int, input().split())
 

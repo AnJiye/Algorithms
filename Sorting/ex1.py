@@ -1,4 +1,4 @@
-# 두 배열의 원소 교체
+# 두 배열의 원소 교체 (182p)
 
 n, k = map(int, input().split())
 a = list(map(int, input().split()))

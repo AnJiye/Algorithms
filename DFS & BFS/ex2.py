@@ -1,4 +1,4 @@
-# 미로 탈출 - BFS 사용
+# 미로 탈출 - BFS 사용 (152p)
 
 from collections import deque
 
